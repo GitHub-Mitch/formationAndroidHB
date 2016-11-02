@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-tata modif branch master
-=======
 tata
->>>>>>> eduardo
